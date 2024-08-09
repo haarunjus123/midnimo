@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059055564428",
+    "project_id": "midnimo-app-9cdef",
+    "storage_bucket": "midnimo-app-9cdef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059055564428:android:bab94a013396d4bfd02da9",
+        "android_client_info": {
+          "package_name": "com.midnimomarket.midnimoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgR8tD7aEZawqO_4eJR1yLMNyUoJMO7LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
